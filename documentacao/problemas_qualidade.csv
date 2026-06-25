@@ -1,0 +1,6 @@
+﻿problema;colunas_afetadas;quantidade;decisao
+Valores ausentes;raca_cor, escolaridade;1026;"Preencher raça/cor como Ignorada; remover escolaridade por excesso de ausência."
+Linhas duplicadas;Todas;58;Remover duplicidades exatas para evitar dupla contagem.
+Coluna com baixa utilidade analítica;escolaridade;1010;Remover do dataset final, pois mais de 90% dos registros estão vazios.
+Categorias codificadas;sexo, raca_cor, local_ocorrencia;3;Criar descrições padronizadas para uso em BI e análise exploratória.
+Outliers estatísticos;idade;196;Calcular pelo método IQR após remoção de duplicidades e manter com coluna indicadora.

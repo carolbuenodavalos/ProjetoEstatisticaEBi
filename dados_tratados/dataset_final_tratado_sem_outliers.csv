@@ -1,0 +1,857 @@
+﻿ano;sigla_uf;id_municipio_residencia;causa_basica;grupo_causa;classificacao_evitabilidade;idade;idade_meses;faixa_etaria;faixa_etaria_bi;sexo;sexo_desc;raca_cor;raca_cor_desc;local_ocorrencia;local_ocorrencia_desc;causa_externa;obito_hospitalar;idade_outlier_iqr;idade_normalizada_minmax;idade_padronizada_zscore
+2005;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2005;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2005;PR;4108304;C64;Neoplasias e sangue;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2005;PR;4108304;E46;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;3;Domicílio;False;False;False;0.0825;-0.086745
+2005;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.42;5.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2005;PR;4108304;J969;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;L00;Outras causas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2005;PR;4108304;N049;Outras causas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;P239;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P240;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P240;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2005;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P280;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P280;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;P285;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P285;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;P285;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;P285;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2005;PR;4108304;P371;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;P610;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2005;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2005;PR;4108304;P90;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2005;PR;4108304;Q019;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;Q031;Malformações congênitas;Não classificada como evitável;0.42;5.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.105;0.019987
+2005;PR;4108304;Q039;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q054;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;Q200;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q213;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.01;-0.430659
+2005;PR;4108304;Q218;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;Q221;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.0075;-0.442518
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2005;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;Q359;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2005;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2005;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2005;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2005;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2005;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2005;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2005;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2005;PR;4108304;Y000;Causas externas;Evitável - causas externas;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;True;True;False;0.0625;-0.181618
+2006;PR;4108304;A047;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2006;PR;4108304;A09;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0625;-0.181618
+2006;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2006;PR;4108304;A500;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2006;PR;4108304;B49;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2006;PR;4108304;I509;Aparelho circulatório;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2006;PR;4108304;J159;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2006;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.015;-0.40694
+2006;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2006;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2006;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2006;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2006;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2006;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2006;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;2;Preta;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P071;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P071;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2006;PR;4108304;P210;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P210;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.01;-0.430659
+2006;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2006;PR;4108304;P239;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P368;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2006;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2006;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2006;PR;4108304;P551;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2006;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2006;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2006;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2006;PR;4108304;P969;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;Q039;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;Q059;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2006;PR;4108304;Q234;Malformações congênitas;Não classificada como evitável;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;2;Preta;1;Hospital;False;True;False;0.0425;-0.27649
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0825;-0.086745
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2006;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.125;0.11486
+2006;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;Q648;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;Q774;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2006;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2006;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0825;-0.086745
+2006;PR;4108304;W750;Causas externas;Evitável - causas externas;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;3;Domicílio;True;False;False;0.0625;-0.181618
+2007;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;A509;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2007;PR;4108304;E46;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0625;-0.181618
+2007;PR;4108304;G009;Sistema nervoso;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.01;-0.430659
+2007;PR;4108304;G049;Sistema nervoso;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;G120;Sistema nervoso;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2007;PR;4108304;G318;Sistema nervoso;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2007;PR;4108304;J158;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0825;-0.086745
+2007;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2007;PR;4108304;J690;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0625;-0.181618
+2007;PR;4108304;J81;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2007;PR;4108304;K565;Outras causas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2007;PR;4108304;K729;Outras causas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2007;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P030;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P071;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2007;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P209;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.005;-0.454377
+2007;PR;4108304;P239;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0;-0.478095
+2007;PR;4108304;P243;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.015;-0.40694
+2007;PR;4108304;P271;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2007;PR;4108304;P280;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2007;PR;4108304;P293;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2007;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0075;-0.442518
+2007;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0125;-0.418799
+2007;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2007;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2007;PR;4108304;P832;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;P964;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;P969;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0025;-0.466236
+2007;PR;4108304;P969;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0175;-0.395081
+2007;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;Q211;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2007;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;Q333;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2007;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2007;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;Q897;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2007;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2007;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2007;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2007;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2007;PR;4108304;V892;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;True;True;False;0.02;-0.383222
+2007;PR;4108304;W780;Causas externas;Evitável - causas externas;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;True;False;False;0.0825;-0.086745
+2007;PR;4108304;Y000;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;True;True;False;0.02;-0.383222
+2008;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2008;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2008;PR;4108304;E889;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;G009;Sistema nervoso;Não classificada como evitável;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2008;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0825;-0.086745
+2008;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2008;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2008;PR;4108304;J219;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2008;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2008;PR;4108304;P030;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P159;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P219;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P239;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P249;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2008;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2008;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2008;PR;4108304;P964;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2008;PR;4108304;Q209;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;Q211;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2008;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;Q422;Malformações congênitas;Não classificada como evitável;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0125;-0.418799
+2008;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2008;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2008;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2008;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2008;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2008;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.01;-0.430659
+2008;PR;4108304;R98;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;5;Outros;False;False;False;0.0425;-0.27649
+2008;PR;4108304;W750;Causas externas;Evitável - causas externas;0.58;6.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;True;False;False;0.145;0.209732
+2009;PR;4108304;A052;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0425;-0.27649
+2009;PR;4108304;E46;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2009;PR;4108304;J690;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2009;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2009;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2009;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2009;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2009;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2009;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2009;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2009;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P041;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P051;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2009;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P201;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P201;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2009;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2009;PR;4108304;P293;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2009;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2009;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2009;PR;4108304;Q039;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;Q059;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2009;PR;4108304;Q070;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2009;PR;4108304;Q200;Malformações congênitas;Não classificada como evitável;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.015;-0.40694
+2009;PR;4108304;Q210;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0625;-0.181618
+2009;PR;4108304;Q246;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;Q258;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;Q320;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0625;-0.181618
+2009;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2009;PR;4108304;Q433;Malformações congênitas;Não classificada como evitável;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2009;PR;4108304;Q791;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2009;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2009;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2010;PR;4108304;A09;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2010;PR;4108304;A09;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2010;PR;4108304;K561;Outras causas;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2010;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P002;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P005;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P010;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2010;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;P044;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0075;-0.442518
+2010;PR;4108304;P201;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P201;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P210;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;P239;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2010;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2010;PR;4108304;P964;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;Q039;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2010;PR;4108304;Q042;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;Q211;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2010;PR;4108304;Q220;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;Q446;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;Q641;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2010;PR;4108304;Q771;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2010;PR;4108304;Q913;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2010;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.42;5.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.105;0.019987
+2010;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.145;0.209732
+2010;PR;4108304;V496;Causas externas;Evitável - causas externas;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;5;Outros;True;False;False;0.0425;-0.27649
+2010;PR;4108304;W750;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;3;Domicílio;True;False;False;0.02;-0.383222
+2010;PR;4108304;W780;Causas externas;Evitável - causas externas;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;True;False;False;0.105;0.019987
+2010;PR;4108304;W840;Causas externas;Evitável - causas externas;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;True;False;False;0.0425;-0.27649
+2011;PR;4108304;E46;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2011;PR;4108304;E742;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2011;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0625;-0.181618
+2011;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2011;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2011;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2011;PR;4108304;P002;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2011;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2011;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2011;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2011;PR;4108304;P039;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2011;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;2;Preta;1;Hospital;False;True;False;0.02;-0.383222
+2011;PR;4108304;P700;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P704;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2011;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2011;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2011;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2011;PR;4108304;P819;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2011;PR;4108304;P942;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2011;PR;4108304;Q211;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2011;PR;4108304;Q211;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2011;PR;4108304;Q213;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.0625;-0.181618
+2011;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;Q897;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2011;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;3;Domicílio;False;False;False;0.005;-0.454377
+2011;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2011;PR;4108304;Y140;Causas externas;Evitável - causas externas;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;True;True;False;0.0075;-0.442518
+2012;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;A500;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;B200;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.105;0.019987
+2012;PR;4108304;J180;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2012;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;2;Preta;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2012;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2012;PR;4108304;P368;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2012;PR;4108304;P368;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2012;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2012;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2012;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;Q203;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;Q203;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;Q208;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;Q212;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.125;0.11486
+2012;PR;4108304;Q241;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;Q319;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2012;PR;4108304;Q371;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2012;PR;4108304;Q410;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2012;PR;4108304;Q411;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;Q431;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2012;PR;4108304;Q601;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2012;PR;4108304;Q780;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.0425;-0.27649
+2012;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2012;PR;4108304;Q902;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2013;PR;4108304;A379;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2013;PR;4108304;A415;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;A86;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2013;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2013;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2013;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2013;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2013;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P042;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2013;PR;4108304;P293;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;P293;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2013;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.01;-0.430659
+2013;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2013;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;P399;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2013;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;P964;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;Q043;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2013;PR;4108304;Q059;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2013;PR;4108304;Q070;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2013;PR;4108304;Q203;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2013;PR;4108304;Q220;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0175;-0.395081
+2013;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;Q251;Malformações congênitas;Não classificada como evitável;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2013;PR;4108304;Q263;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2013;PR;4108304;Q268;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2013;PR;4108304;Q333;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;Q423;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2013;PR;4108304;Q438;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;Q438;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;Q611;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2013;PR;4108304;Q774;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2013;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2013;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2013;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2013;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2013;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0425;-0.27649
+2013;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.42;5.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.105;0.019987
+2013;PR;4108304;Y061;Causas externas;Evitável - causas externas;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;True;True;False;0.0075;-0.442518
+2013;PR;4108304;Y849;Causas externas;Evitável - causas externas;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;True;True;False;0.0425;-0.27649
+2014;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2014;PR;4108304;B376;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2014;PR;4108304;I424;Aparelho circulatório;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2014;PR;4108304;I517;Aparelho circulatório;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;3;Domicílio;False;False;False;0.02;-0.383222
+2014;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2014;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2014;PR;4108304;J189;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2014;PR;4108304;K920;Outras causas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2014;PR;4108304;N19;Outras causas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2014;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2014;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2014;PR;4108304;P038;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P042;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P209;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2014;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2014;PR;4108304;P290;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;P292;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P293;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2014;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2014;PR;4108304;P744;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2014;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2014;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2014;PR;4108304;P780;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2014;PR;4108304;P964;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;Q049;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2014;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2014;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;Q431;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2014;PR;4108304;Q442;Malformações congênitas;Não classificada como evitável;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2014;PR;4108304;Q620;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2014;PR;4108304;Q752;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2014;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2014;PR;4108304;Q897;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2014;PR;4108304;Q912;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2015;PR;4108304;D339;Neoplasias e sangue;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2015;PR;4108304;E46;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2015;PR;4108304;I409;Aparelho circulatório;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2015;PR;4108304;J121;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.105;0.019987
+2015;PR;4108304;J128;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2015;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P010;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2015;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P073;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;P210;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P240;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P290;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P292;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2015;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2015;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2015;PR;4108304;P615;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2015;PR;4108304;P768;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2015;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2015;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2015;PR;4108304;P780;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2015;PR;4108304;P789;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;P968;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2015;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q248;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;Q248;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2015;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;Q289;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2015;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q613;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q774;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2015;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2015;PR;4108304;Q894;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2015;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2015;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2015;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.5;6.0;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;3;Domicílio;False;False;False;0.125;0.11486
+2015;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.02;-0.383222
+2015;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.0425;-0.27649
+2015;PR;4108304;V436;Causas externas;Evitável - causas externas;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;5;Outros;True;False;False;0.0425;-0.27649
+2015;PR;4108304;W780;Causas externas;Evitável - causas externas;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;True;False;False;0.01;-0.430659
+2015;PR;4108304;W789;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;2;Outro estabelecimento de saúde;True;False;False;0.02;-0.383222
+2015;PR;4108304;Y349;Causas externas;Evitável - causas externas;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;True;True;False;0.145;0.209732
+2016;PR;4108304;J118;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2016;PR;4108304;J210;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2016;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P002;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P002;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2016;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2016;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2016;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2016;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P024;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P036;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2016;PR;4108304;P059;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P072;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P159;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2016;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2016;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2016;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;P285;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2016;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2016;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2016;PR;4108304;P744;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;Q019;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.0;-0.478095
+2016;PR;4108304;Q043;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2016;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2016;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2016;PR;4108304;Q898;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2016;PR;4108304;R95;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2016;PR;4108304;W789;Causas externas;Evitável - causas externas;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;True;False;False;0.0825;-0.086745
+2016;PR;4108304;Y209;Causas externas;Evitável - causas externas;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;True;True;False;0.105;0.019987
+2016;PR;4108304;Y349;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;5;Outros;True;False;False;0.02;-0.383222
+2017;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;A509;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;J210;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;J80;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2017;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;P002;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0125;-0.418799
+2017;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;P010;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;P010;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P010;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2017;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2017;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2017;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2017;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2017;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;P392;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;P393;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2017;PR;4108304;P60;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2017;PR;4108304;P969;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q209;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;Q259;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2017;PR;4108304;Q349;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q431;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;Q459;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;Q774;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2017;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2017;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2017;PR;4108304;W780;Causas externas;Evitável - causas externas;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;True;False;False;0.02;-0.383222
+2017;PR;4108304;W789;Causas externas;Evitável - causas externas;0.42;5.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;True;True;False;0.105;0.019987
+2018;PR;4108304;A509;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2018;PR;4108304;J218;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2018;PR;4108304;J218;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2018;PR;4108304;N390;Outras causas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2018;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2018;PR;4108304;P001;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2018;PR;4108304;P013;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2018;PR;4108304;P021;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2018;PR;4108304;P042;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2018;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P288;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2018;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2018;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2018;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2018;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2018;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2018;PR;4108304;Q248;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2018;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.125;0.11486
+2018;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2018;PR;4108304;Q254;Malformações congênitas;Não classificada como evitável;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2018;PR;4108304;Q793;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2018;PR;4108304;Q878;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2018;PR;4108304;Q897;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2018;PR;4108304;W780;Causas externas;Evitável - causas externas;0.25;3.0;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;True;False;False;0.0625;-0.181618
+2019;PR;4108304;A059;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;E780;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2019;PR;4108304;G009;Sistema nervoso;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.02;-0.383222
+2019;PR;4108304;I638;Aparelho circulatório;Não classificada como evitável;0.25;3.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0625;-0.181618
+2019;PR;4108304;J09;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2019;PR;4108304;J159;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2019;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2019;PR;4108304;P006;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.145;0.209732
+2019;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P044;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P200;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2019;PR;4108304;P210;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2019;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P228;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;P352;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.02;-0.383222
+2019;PR;4108304;P368;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2019;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2019;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;Q201;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2019;PR;4108304;Q213;Malformações congênitas;Não classificada como evitável;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2019;PR;4108304;Q234;Malformações congênitas;Não classificada como evitável;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2019;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2019;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2019;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2019;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.07;0.84;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2019;PR;4108304;Q336;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;Q649;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2019;PR;4108304;Q898;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;Q909;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2019;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2019;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.58;6.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.145;0.209732
+2020;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2020;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2020;PR;4108304;P030;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2020;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2020;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;2;Preta;1;Hospital;False;True;False;0.0075;-0.442518
+2020;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.015;-0.40694
+2020;PR;4108304;P592;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;P741;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P768;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2020;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;P960;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;Q043;Malformações congênitas;Não classificada como evitável;0.17;2.04;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0425;-0.27649
+2020;PR;4108304;Q048;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;Q201;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2020;PR;4108304;Q221;Malformações congênitas;Não classificada como evitável;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;Q248;Malformações congênitas;Não classificada como evitável;0.33;3.96;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0825;-0.086745
+2020;PR;4108304;Q250;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2020;PR;4108304;Q438;Malformações congênitas;Não classificada como evitável;0.5;6.0;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.125;0.11486
+2020;PR;4108304;Q898;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2020;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2020;PR;4108304;W789;Causas externas;Evitável - causas externas;0.33;3.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;True;True;False;0.0825;-0.086745
+2021;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.31;3.72;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0775;-0.110463
+2021;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.34;4.08;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.085;-0.074886
+2021;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P012;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P015;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.0125;-0.418799
+2021;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.11;1.32;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0275;-0.347645
+2021;PR;4108304;P027;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.14;1.68;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.035;-0.312068
+2021;PR;4108304;P269;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P271;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.12;1.44;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.03;-0.335786
+2021;PR;4108304;P271;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.15;1.8;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0375;-0.300209
+2021;PR;4108304;P299;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;P299;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2021;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2021;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0175;-0.395081
+2021;PR;4108304;P579;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2021;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.13;1.56;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0325;-0.323927
+2021;PR;4108304;P781;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.01;-0.430659
+2021;PR;4108304;P781;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.05;0.6;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0125;-0.418799
+2021;PR;4108304;Q219;Malformações congênitas;Não classificada como evitável;0.34;4.08;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.085;-0.074886
+2021;PR;4108304;Q234;Malformações congênitas;Não classificada como evitável;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.015;-0.40694
+2021;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2021;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.005;-0.454377
+2021;PR;4108304;Q790;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;Q897;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2021;PR;4108304;Q913;Malformações congênitas;Não classificada como evitável;0.21;2.52;Pós-neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.0525;-0.229054
+2021;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.11;1.32;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0275;-0.347645
+2021;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.15;1.8;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0375;-0.300209
+2021;PR;4108304;R99;Sintomas e causas mal definidas;Indefinida - revisar qualidade do registro;0.26;3.12;Pós-neonatal;Menor de 1 ano;1;Masculino;4;Parda;4;Via pública;False;False;False;0.065;-0.169759
+2021;PR;4108304;W780;Causas externas;Evitável - causas externas;0.2;2.4;Pós-neonatal;Menor de 1 ano;1;Masculino;2;Preta;1;Hospital;True;True;False;0.05;-0.240913
+2022;PR;4108304;A047;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.57;6.84;Pós-neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.1425;0.197873
+2022;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.15;1.8;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0375;-0.300209
+2022;PR;4108304;A419;Doenças infecciosas e parasitárias;Potencialmente evitável por atenção à saúde;0.16;1.92;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.04;-0.288349
+2022;PR;4108304;E888;Endócrinas, nutricionais e metabólicas;Potencialmente evitável por atenção à saúde;0.08;0.96;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.02;-0.383222
+2022;PR;4108304;G919;Sistema nervoso;Não classificada como evitável;0.18;2.16;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.045;-0.264631
+2022;PR;4108304;J46;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.22;2.64;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.055;-0.217195
+2022;PR;4108304;J80;Aparelho respiratório;Potencialmente evitável por atenção à saúde;0.11;1.32;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0275;-0.347645
+2022;PR;4108304;K859;Outras causas;Não classificada como evitável;0.11;1.32;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0275;-0.347645
+2022;PR;4108304;P000;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0075;-0.442518
+2022;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P008;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.09;1.08;Pós-neonatal;Menor de 1 ano;1;Masculino;2;Preta;1;Hospital;False;True;False;0.0225;-0.371363
+2022;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P011;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.06;0.72;Neonatal;Menor de 1 ano;1;Masculino;9;Ignorada;1;Hospital;False;True;False;0.015;-0.40694
+2022;PR;4108304;P022;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P059;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P070;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P220;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.01;-0.430659
+2022;PR;4108304;P229;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.1;1.2;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.025;-0.359504
+2022;PR;4108304;P241;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.01;0.12;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.02;0.24;Neonatal;Menor de 1 ano;1;Masculino;4;Parda;1;Hospital;False;True;False;0.005;-0.454377
+2022;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2022;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2022;PR;4108304;P369;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.07;0.84;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0175;-0.395081
+2022;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.03;0.36;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2022;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.1;1.2;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.025;-0.359504
+2022;PR;4108304;P77;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.19;2.28;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;2;Outro estabelecimento de saúde;False;False;False;0.0475;-0.252772
+2022;PR;4108304;P960;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;9;Ignorada;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P960;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;P969;Afecções perinatais;Potencialmente evitável por atenção à saúde;0.04;0.48;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;3;Domicílio;False;False;False;0.01;-0.430659
+2022;PR;4108304;Q000;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;Q031;Malformações congênitas;Não classificada como evitável;0.19;2.28;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0475;-0.252772
+2022;PR;4108304;Q234;Malformações congênitas;Não classificada como evitável;0.03;0.36;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0075;-0.442518
+2022;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;Q249;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;Q391;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;Q421;Malformações congênitas;Não classificada como evitável;0.01;0.12;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0025;-0.466236
+2022;PR;4108304;Q447;Malformações congênitas;Não classificada como evitável;0.61;7.32;Pós-neonatal;Menor de 1 ano;2;Feminino;4;Parda;1;Hospital;False;True;False;0.1525;0.24531
+2022;PR;4108304;Q899;Malformações congênitas;Não classificada como evitável;0.0;0.0;Neonatal;Menor de 1 ano;1;Masculino;1;Branca;1;Hospital;False;True;False;0.0;-0.478095
+2022;PR;4108304;V436;Causas externas;Evitável - causas externas;0.22;2.64;Pós-neonatal;Menor de 1 ano;1;Masculino;1;Branca;4;Via pública;True;False;False;0.055;-0.217195
+2022;PR;4108304;W780;Causas externas;Evitável - causas externas;0.45;5.4;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;True;False;False;0.1125;0.055564
+2022;PR;4108304;W780;Causas externas;Evitável - causas externas;0.58;6.96;Pós-neonatal;Menor de 1 ano;2;Feminino;1;Branca;3;Domicílio;True;False;False;0.145;0.209732

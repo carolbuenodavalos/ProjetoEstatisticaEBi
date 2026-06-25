@@ -1,0 +1,16 @@
+{
+  "linhas_base_original": 1110,
+  "colunas_base_original": 9,
+  "linhas_apos_tratamento": 1052,
+  "colunas_apos_tratamento": 21,
+  "duplicatas_removidas": 58,
+  "faltantes_antes": 1026,
+  "faltantes_depois": 0,
+  "escolaridade_faltante_pct": 91.16,
+  "outliers_idade_iqr": 196,
+  "limite_iqr_idade_inferior": 0.0,
+  "limite_iqr_idade_superior": 0.61,
+  "taxa_retencao_pct": 94.77,
+  "fonte": "https://dadosabertos.saude.gov.br/dataset/sim",
+  "data_acesso": "16/05/2026"
+}

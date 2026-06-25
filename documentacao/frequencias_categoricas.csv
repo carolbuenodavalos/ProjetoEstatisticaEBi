@@ -1,0 +1,29 @@
+﻿variavel;categoria;quantidade
+sexo_desc;Masculino;588
+sexo_desc;Feminino;464
+raca_cor_desc;Branca;899
+raca_cor_desc;Parda;128
+raca_cor_desc;Ignorada;16
+raca_cor_desc;Preta;9
+local_ocorrencia_desc;Hospital;946
+local_ocorrencia_desc;Domicílio;53
+local_ocorrencia_desc;Outro estabelecimento de saúde;34
+local_ocorrencia_desc;Via pública;10
+local_ocorrencia_desc;Outros;9
+grupo_causa;Afecções perinatais;468
+grupo_causa;Malformações congênitas;253
+grupo_causa;Causas externas;87
+grupo_causa;Aparelho respiratório;64
+grupo_causa;Doenças infecciosas e parasitárias;52
+grupo_causa;Sintomas e causas mal definidas;35
+grupo_causa;Sistema nervoso;29
+grupo_causa;Neoplasias e sangue;22
+grupo_causa;Endócrinas, nutricionais e metabólicas;18
+grupo_causa;Outras causas;14
+grupo_causa;Aparelho circulatório;10
+faixa_etaria;Neonatal;689
+faixa_etaria;Pós-neonatal;206
+faixa_etaria;1 ano;65
+faixa_etaria;2 anos;37
+faixa_etaria;3 anos;31
+faixa_etaria;4 anos;24
