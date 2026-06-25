@@ -47,7 +47,17 @@ fig2.update_layout(yaxis={'categoryorder':'total ascending'})
 c2.plotly_chart(fig2, use_container_width=True)
 
 c3, c4 = st.columns(2)
-fig3 = px.pie(df_filtrado, names='faixa_etaria_bi', title='3. Proporção por Faixa Etária', hole=0.4, color_discrete_sequence=['#1f77b4', '#ff7f0e'])
+faixa_counts = df_filtrado['faixa_etaria_bi'].value_counts().reset_index()
+faixa_counts.columns = ['Faixa Etária', 'Total']
+fig3 = px.bar(
+    faixa_counts,
+    x='Faixa Etária',
+    y='Total',
+    title='3. Distribuição por Faixa Etária',
+    color='Total',
+    color_continuous_scale='Blues'
+)
+fig3.update_layout(xaxis_title='Faixa Etária', yaxis_title='Quantidade')
 c3.plotly_chart(fig3, use_container_width=True)
 
 local_faixa = df_filtrado.groupby(['faixa_etaria_bi', 'local_ocorrencia_desc']).size().reset_index(name='contagem')
